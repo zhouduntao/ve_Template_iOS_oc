@@ -58,6 +58,7 @@ def release_pod
       'VEUpdateHelper',
       'VEUpdateView'
    ]
+  pod 'Alamofire'
 end
 
 def ov_pod
